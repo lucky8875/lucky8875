@@ -43,10 +43,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/lucky8875/lucky8875/output/snake.svg" alt="Snake animation" />
-
-###
-
 <div align="center">
   <img src="https://profile-counter.glitch.me/lucky8875/count.svg?"  />
 </div>
